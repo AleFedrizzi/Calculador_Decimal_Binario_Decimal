@@ -1,4 +1,4 @@
-# Calculadora: Decimal / Binario - Binário / Decimal
+# Calculadora C++
 
 O projeto consiste em construir uma Calculadora C++ para a conversão de Decimal para Binário e Binário para Decimal.
 
