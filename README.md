@@ -1,4 +1,4 @@
-# Calculador_Decimal_Binario_Decimal
+# Calculadora_Decimal_Binario_Decimal
 
 O projeto consiste em construir uma Calculadora C++
 
