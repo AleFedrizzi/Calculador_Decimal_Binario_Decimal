@@ -1,4 +1,4 @@
-# Calculadora Decimal / Binario - Binário / Decimal
+# Calculadora: Decimal / Binario - Binário / Decimal
 
 O projeto consiste em construir uma Calculadora C++
 
